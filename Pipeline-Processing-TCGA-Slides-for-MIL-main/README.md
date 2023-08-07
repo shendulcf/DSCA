@@ -1,4 +1,4 @@
-# Pipeline-Processing-TCGA-Slides-for-MIL
+#Pipeline-Processing-TCGA-Slides-for-MIL
 
 This repo provides an exhaustive pipeline of processing TCGA Whole-Slide Images for downstream Multiple Instance Learning (MIL), basically developed from CLAM (https://github.com/mahmoodlab/CLAM). 
 
